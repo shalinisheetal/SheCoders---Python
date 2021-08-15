@@ -1,7 +1,7 @@
 # SheCoders---Python
 Study material for Python tutorials.
 
-<h1>TOPIS</h1>
+<h1>TOPICS</h1>
 <ul>
 <li>Introduction</li>
 <li>Data types</li>
